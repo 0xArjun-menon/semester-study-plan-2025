@@ -62,8 +62,3 @@ Week 4: ░░░░░░░░░░░░░░░░░░░░░░░ 0%
 
 ---
 
-would you like me to:
-1. generate all 4 `/progress/week*.md` files with day-wise tasks ✅  
-2. add an **automation script** that auto-commits “Day Complete ✅” each time you check off a box?  
-
-if yes, I’ll generate the **entire project code + structure** in one block so you can copy directly into your GitHub repo.
