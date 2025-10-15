@@ -1,0 +1,117 @@
+{
+  "name": "Semester Study Progress — Nov 2025",
+  "body": "Kanban board to track my semester exam study plan (22 Oct – 19 Nov)",
+  "columns": [
+    {
+      "name": "Week 1 (22–28 Oct)",
+      "cards": [
+        {
+          "note": "Data Structure: Arrays, Linked List, Stack & Queue\n- [ ] Read theory\n- [ ] Dry run\n- [ ] Practice 3 problems"
+        },
+        {
+          "note": "COA: Number Systems, Boolean Algebra, Logic Gates\n- [ ] Read theory\n- [ ] Solve 2 examples"
+        },
+        {
+          "note": "Operating System: Process, Scheduling\n- [ ] Study theory\n- [ ] Diagram practice"
+        },
+        {
+          "note": "Mathematics: Limits, Differentiation, Integration\n- [ ] Review formulas\n- [ ] Solve 5 problems"
+        },
+        {
+          "note": "Digital Banking: Payment Systems, e-banking, Security\n- [ ] Study concepts\n- [ ] Review notes"
+        },
+        {
+          "note": "Web Technology: HTML & CSS basics\n- [ ] Build simple page\n- [ ] Practice styles"
+        },
+        {
+          "note": "DSA Lab & Life Skills: Stack/Queue + Communication\n- [ ] Lab practice\n- [ ] Review communication notes"
+        }
+      ]
+    },
+    {
+      "name": "Week 2 (29 Oct – 4 Nov)",
+      "cards": [
+        {
+          "note": "Data Structure: Trees (BST, Traversal, Search)\n- [ ] Read theory\n- [ ] Implement tree\n- [ ] Solve problems"
+        },
+        {
+          "note": "COA: CPU architecture, Instruction cycles\n- [ ] Study pipeline\n- [ ] Solve examples"
+        },
+        {
+          "note": "Operating System: Memory management, Paging, Segmentation\n- [ ] Study theory\n- [ ] Practice questions"
+        },
+        {
+          "note": "Mathematics: Matrices, Differential Equations\n- [ ] Review formulas\n- [ ] Solve problems"
+        },
+        {
+          "note": "Digital Banking: Fintech, Cyber Security, Digital Currency\n- [ ] Read concepts\n- [ ] Review notes"
+        },
+        {
+          "note": "Web Technology: JavaScript basics, DOM\n- [ ] Practice JS code\n- [ ] Manipulate DOM elements"
+        },
+        {
+          "note": "DSA Lab & Life Skills: Sorting algorithms, Teamwork\n- [ ] Lab coding\n- [ ] Team exercise"
+        }
+      ]
+    },
+    {
+      "name": "Week 3 (5 Nov – 11 Nov)",
+      "cards": [
+        {
+          "note": "Data Structure: Revise algorithms + past papers\n- [ ] Revise theory\n- [ ] Solve 2 past papers"
+        },
+        {
+          "note": "COA: Address calculation, Pipeline, ALU design\n- [ ] Practice problems\n- [ ] Revise formulas"
+        },
+        {
+          "note": "Operating System: Deadlocks, Semaphores, CPU Scheduling\n- [ ] Revise theory\n- [ ] Solve 2 problems"
+        },
+        {
+          "note": "Mathematics: Past paper practice, Formula recap\n- [ ] Solve 2 papers\n- [ ] Review formulas"
+        },
+        {
+          "note": "Digital Banking: RBI guidelines, MCQs, Case Scenarios\n- [ ] Revise notes\n- [ ] Practice MCQs"
+        },
+        {
+          "note": "Web Technology: Mini web project / Portfolio Page\n- [ ] Build simple page\n- [ ] JS validation"
+        },
+        {
+          "note": "DSA Lab & Life Skills: Full lab revision + Life Skills recap\n- [ ] Lab practice\n- [ ] Revise LS notes"
+        }
+      ]
+    },
+    {
+      "name": "Week 4 (12 Nov – 19 Nov)",
+      "cards": [
+        {
+          "note": "DS + COA: Summary, Formula Sheets\n- [ ] Revise notes\n- [ ] Quick recap"
+        },
+        {
+          "note": "OS + Maths: Mock questions, Practice\n- [ ] Solve mock papers\n- [ ] Review weak areas"
+        },
+        {
+          "note": "Digital Banking + Web Tech: Diagrams, Definitions\n- [ ] Quick revision\n- [ ] Flashcards"
+        },
+        {
+          "note": "DSA Lab + Life Skills: Final practical review + Soft skills\n- [ ] Lab dry run\n- [ ] Review LS topics"
+        },
+        {
+          "note": "All Subjects: Full-day recap\n- [ ] Revise summaries\n- [ ] Short notes review"
+        },
+        {
+          "note": "Weak Topics: Focused revision\n- [ ] Target difficult topics"
+        },
+        {
+          "note": "Light Review: Flashcards & Notes\n- [ ] Quick glance review"
+        },
+        {
+          "note": "Rest Day: Relax & mental prep\n- [ ] Sleep early"
+        }
+      ]
+    },
+    {
+      "name": "Done / Completed",
+      "cards": []
+    }
+  ]
+}
